@@ -69,16 +69,16 @@ Resturant/
 ## 📸 Screenshots
 
 ### FIRST
-![FIRST](https://github.com/sourav5482/TheSpecialBite/blob/main/Resturant/ss/f.png?raw=true)
+![FIRST](ss/f.png?raw=true)
 
 ### SECOND
-![SECOND](https://github.com/sourav5482/TheSpecialBite/blob/main/Resturant/ss/s.png?raw=true)
+![SECOND](ss/s.png?raw=true)
 
 ### THIRD
-![THIRD](https://github.com/sourav5482/TheSpecialBite/blob/main/Resturant/ss/t.png?raw=true)
+![THIRD](/ss/t.png?raw=true)
 
 ### FOOTER 
-![FOOTER](https://github.com/sourav5482/TheSpecialBite/blob/main/Resturant/ss/footer.png?raw=true)
+![FOOTER](ss/footer.png?raw=true)
 
 
 
