@@ -3,7 +3,7 @@
 **The Special Bite** is a modern, responsive restaurant landing page built using HTML, CSS, JavaScript, and GSAP for smooth animations. It showcases a beautifully animated hero section and an interactive full menu popup with appealing food imagery.
 
 ---
-🔗 **Live Website:** [The Special Bite](https://sourav5482.github.io/TheSpecialBite/)
+🔗 **Live Website:** [The Special Bite](https://the-special-bite.vercel.app/)
 
 ---
 
