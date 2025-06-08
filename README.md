@@ -69,16 +69,16 @@ Resturant/
 ## 📸 Screenshots
 
 ### FIRST
-![FIRST](ss/f.png?raw=true)
+![FIRST](ss/f.png)
 
 ### SECOND
-![SECOND](ss/s.png?raw=true)
+![SECOND](ss/s.png)
 
 ### THIRD
-![THIRD](/ss/t.png?raw=true)
+![THIRD](/ss/t.png)
 
 ### FOOTER 
-![FOOTER](ss/footer.png?raw=true)
+![FOOTER](ss/footer.png)
 
 
 
